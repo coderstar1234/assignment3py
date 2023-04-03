@@ -2,7 +2,7 @@
 
 - This is a Python program that asks the user to enter a number and prints "Fizz" if the number is divisible by 3, "Buzz" if the number is divisible by 5, and "FizzBuzz" if the number is divisible by both 3 and 5. 
 - If the number is not divisible by either 3 or 5, the program prints the number itself.
-
+<hr>
 <h1 align="center">Getting Started🔧:-</h1>
 
 - To run this program on your local machine, you must have Python 3.x installed.
@@ -11,25 +11,29 @@
 - Clone this repository to your local machine.
 - Navigate to the directory where the repository was cloned.
 - Open the command prompt or terminal and run the following command to execute the program:
+<hr>
 <h3 align=" center" >Copy code✏️</h3>
 <P align="center">python fizzbuzz.py</p>
 
 - Enter a number when prompted and the program will print the corresponding output.
+<hr>
 <h1 align="center">Example⚙️:-</h1>
 
 - css
+<hr>
 <h3 align=" center" >Copy code✏️</h3>
 <P align="center">Enter a number: 15</p>
 
 - FizzBuzz
+<hr>
 <h1 align="center">Contributing👫:-</h1>
 
 - If you would like to contribute to this project, you can fork the repository, make your changes, and submit a pull request.
-
+<hr>
 <h1 align="center">License📙:-</h1>
 
 - This project is licensed under the MIT License.
 - See the LICENSE file for more information.
-
+<hr>
 
 
