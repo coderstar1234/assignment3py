@@ -5,7 +5,8 @@
 
 <h1 align="center">Getting Started:-</h1>
 
-- To run this program on your local machine, you must have Python 3.x installed. If you do not have Python installed, you can download it from the official website https://www.python.org/downloads/.
+- To run this program on your local machine, you must have Python 3.x installed.
+- If you do not have Python installed, you can download it from the official website https://www.python.org/downloads/.
 
 - Clone this repository to your local machine.
 - Navigate to the directory where the repository was cloned.
