@@ -9,16 +9,18 @@
 
 - Clone this repository to your local machine.
 - Navigate to the directory where the repository was cloned.
--!Open the command prompt or terminal and run the following command to execute the program:
-Copy code
-python fizzbuzz.py
-Enter a number when prompted and the program will print the corresponding output.
+- Open the command prompt or terminal and run the following command to execute the program:
+<h3 align=" center" >Copy code✏️</h3>
+<P align="center">python fizzbuzz.py</p>
+
+- Enter a number when prompted and the program will print the corresponding output.
 <h1 align="center">Example:-</h1>
 
-css
-Copy code
-Enter a number: 15
-FizzBuzz
+- css
+<h3 align=" center" >Copy code✏️</h3>
+<P align="center">Enter a number: 15</p>
+
+- FizzBuzz
 <h1 align="center">Contributing:-</h1>
 
 - If you would like to contribute to this project, you can fork the repository, make your changes, and submit a pull request.
